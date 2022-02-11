@@ -15,6 +15,6 @@ Controls:
 ![Player fighting a boss](roguescreen.png)
 
 Build instructions:
-Run compileAndRun.bat to build and run the game
-After first compilation you only need to use runGame.bat
-Requires Java install
+- Run compileAndRun.bat to build and run the game
+- After first compilation you only need to use runGame.bat
+- Requires Java install
