@@ -1,0 +1,16 @@
+,damage,fire_rate,speed,lifetime,projectiles,ammo,spread,texture,splash,width,height,isAnimated,rotate,scale
+plant_spread1,20,45,4,200,20,1,10,petal, ,11,12,FALSE,FALSE,1
+plant_spread2,20,45,4,200,21,1,10,petal, ,11,12,FALSE,FALSE,1
+plant_machine,20,5,4,200,1,20,30,petal, ,11,12,FALSE,FALSE,1
+plant_acid,20,45,20,10,2,1,60,plantBoss_acid,plantacid,8,8,FALSE,FALSE,1
+plant_sniper,35,75,12,200,1,1,30,petal, ,11,12,FALSE,FALSE,2
+shotgunBoss_shotgun,40,10,7,100,5,1,10,pistol_projectile, ,6,6,FALSE,FALSE,1
+shotgunBoss_pistol,30,5,5,200,1,5,30,pistol_projectile, ,6,6,FALSE,FALSE,1
+shopkeeper_spread1,60,40,5,200,20,1,12,pistol_projectile, ,6,6,FALSE,FALSE,1
+shopkeeper_spread2,60,40,5,200,21,1,12,pistol_projectile, ,6,6,FALSE,FALSE,1
+shopkeeper_machine,60,25,5,200,5,5,10,pistol_projectile, ,6,6,FALSE,FALSE,1
+mentor_knives,30,40,9,200,3,3,30,throwingKnife, ,12,12,TRUE,TRUE,2
+mentor_sword,30,40,6,200,1,1,50,sword, ,40,32,TRUE,TRUE,4
+mentor_shotgun,30,12,3,400,5,50,15,pistol_projectile, ,6,6,FALSE,FALSE,1
+mentor_phase,0,45,0,1,0,1,15,pistol_projectile,,6,6,FALSE,FALSE,1
+mentor_groundSlam,30,10,3,100,8,10,45,groundSpike,,16,20,TRUE,FALSE,4

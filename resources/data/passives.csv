@@ -1,0 +1,4 @@
+,count,value,cost,name,description,
+health,16,2,100,Health,Increases max health,
+damage,30,0.1,100,Damage,Increases damage multiplier,
+gold,0,0.1,500,Gold Multiplier,Increases gold multiplier,

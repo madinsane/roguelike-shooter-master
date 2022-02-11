@@ -1,0 +1,5 @@
+,gold_amount,health_packs,health_bonus,damage_bonus,cost
+gold,1,0,0,0,0
+healthPack,0,1,0,0,50
+pillRed,0,0,0,0.25,100
+pillGreen,0,0,10,0,100

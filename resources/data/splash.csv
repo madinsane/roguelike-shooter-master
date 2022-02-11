@@ -1,0 +1,4 @@
+,damage,lifetime,width,height,texture,isAnimated,
+rocket,25,10,32,32,rocket,TRUE, 
+acid,2,200,48,48,acid,TRUE, 
+plantacid,50,1000,48,48,plantacid,TRUE,

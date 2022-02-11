@@ -1,0 +1,35 @@
+Player Frames
+1-60 Idle
+61 Forward With Gun Up
+62-65 Forward Moving
+66-74 Forward Dash
+75-82 Forward Heal
+83-89 Teleport In
+90-96 Teleport Out
+97-100 Forward Death
+101-104 Back Idle
+105 Back With Gun Up
+106-109 Back Moving
+110-117 Back Dash
+118-126 Back Heal
+127-129 Back Death
+130-133 Right Idle
+134 Right With Gun Up
+135-143 Right Dash
+144-151 Right Heal
+152-154 Right Death
+155-158 Left Idle
+159 Left With Gun Up
+160-168 Left Dash
+169-176 Left Heal
+177-179 Left Death
+
+
+
+
+
+
+
+
+
+

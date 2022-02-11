@@ -1,0 +1,11 @@
+,health,move_speed,damage,range,weapon,width,height,left,right,iframes,idle_animation,difficulty,health_scaling,move_speed_scaling,damage_scaling,health_boss_factor,damage_boss_factor,gold,direction
+player,200,2,5,0,player_pistol,16,32,-1,-1,5,player_forward_idle,0,0,0,0,0,0,1,4
+skinman,150,3,40,0,player_machine_gun,16,32,0,10,3,skinman_right_idle,2,20,0.25,5,10,2.5,2,2
+dog,100,5,60,0,player_machine_gun,27,16,10,0,3,dog_right_idle,3,10,0.35,5,10,3,3,2
+turret_rf,200,0,40,-1,player_machine_gun,16,32,0,10,3,turret_rf_forward_idle,4,20,0,5,10,2.5,4,4
+turret_rock,250,0,40,-1,player_rocket,16,32,0,10,3,turret_rock_forward_idle,5,20,0,5,10,2.5,5,4
+shield,300,3,40,360,player_machine_gun,20,32,0,10,3,shield_right_idle,4,30,0.25,5,10,2.5,4,2
+plantBoss,250,0,50,-1,player_machine_gun,64,64,0,10,3,skinman_right_idle,100,50,0,5,20,1,250,1
+shotgunBoss,200,0,50,-1,player_shotgun,32,32,0,10,3,skinman_right_idle,150,50,0,5,20,1,300,1
+mentorBoss,300,3,50,500,player_pistol,48,53,0,10,3,skinman_right_idle,200,50,0,5,20,1,400,1
+shopkeeper,400,0,0,-1,player_machine_gun,31,48,0,10,3,skinman_right_idle,200,50,0,5,25,1,2000,1

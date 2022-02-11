@@ -1,0 +1,12 @@
+,damage,fire_rate,speed,lifetime,projectiles,ammo,spread,id,width,height,texture,isAnimated,splash,pierce,rotate,scale
+player_pistol,5,20,15,200,1,-1,30,0,6,6,pistol_projectile,FALSE, ,FALSE,FALSE,1
+player_machine_gun,5,5,15,200,1,100,30,1,6,6,pistol_projectile,FALSE, ,FALSE,FALSE,1
+player_spread_gun,15,20,15,200,3,15,15,2,6,6,pistol_projectile,FALSE, ,FALSE,FALSE,1
+player_shotgun,50,60,10,10,5,5,10,3,6,6,pistol_projectile,FALSE, ,FALSE,FALSE,1
+player_slow_gun,5,60,3,1000,1,5,30,4,32,32,slow_projectile,TRUE, ,TRUE,FALSE,2
+player_sniper_rifle,150,60,20,200,1,5,30,5,6,6,pistol_projectile,FALSE, ,FALSE,FALSE,1
+player_bow,10,30,15,200,1,10,30,6,8,16,arrow_projectile,FALSE, ,TRUE,TRUE,2
+player_flamethrower,1,3,5,55,1,150,30,7,16,16,flame_projectile,TRUE, ,TRUE,TRUE,1.5
+player_rocket,5,60,10,200,1,5,30,8,8,16,rocket_projectile,TRUE,rocket,FALSE,TRUE,1
+player_acid,2,60,10,200,1,5,30,9,8,8,acid_projectile,FALSE,acid,FALSE,FALSE,1
+player_groundSpike,1,10,3,100,8,18,45,10,16,20,groundSpike,TRUE,,TRUE,FALSE,2.5
